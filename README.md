@@ -11,6 +11,7 @@ https://github.com/omer-erken/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
+![screenshot](https://user-images.githubusercontent.com/118456858/206906699-d1bf70a8-6e25-4e36-b8cd-932040cd15a7.png)
 
 ```
 cd kodluyoruzilkrepo
